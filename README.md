@@ -1,8 +1,19 @@
-## Profile
-Daegu Science High School 30th (2017. 3 - 2020. 2)
+## About me
+- Security Researcher
 
-Korea University Deperment of Cyber Defense (2020. 3 - )
+- CTF Player [@CyKor](https://x.com/cykorku) 
 
-KITRI BoB 11th (2022. 7 - 2023. 2)
+* **2025.2 - Now**
 
-Contact: remedy20@korea.ac.kr
+
+**M.S.**, School of Electrical Engineering [@KAIST Hacking Lab](https://kaist-hacking.github.io/)
+
+* **2022.7 - 2023.3**
+
+
+KITRI BoB 11th, Vulnerability Analysis Track - **Top 10** 
+
+* **2020.3 - 2025.2**
+
+
+**B.S.**, Korea University, Deperment of Cyber Defense 
